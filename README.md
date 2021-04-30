@@ -1,4 +1,4 @@
-# The `times` Construct
+# Looping with times
 
 ## Objectives
 
